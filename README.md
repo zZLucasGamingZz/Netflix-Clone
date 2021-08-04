@@ -17,7 +17,7 @@ Faça um clone desse repositório e acesse o diretório.
 $ git clone git@github.com:zZLucasGamingZz/Netflix-Clone.git && cd Netflix-Clone
 ```
 
-Para ter acesso a API você precisará de uma chave, basta criar uma conta no TMDB para ter acesso, [link do cadastro](https://www.themoviedb.org/signup). Caminho da chave: **Perfil -> Configurações -> API -> Chave da API**
+Para ter acesso a API você precisará de uma chave, basta criar uma conta no TMDB para ter acesso, [link do cadastro](https://www.themoviedb.org/signup). Caminho da chave: **Perfil > Configurações > API > Chave da API**
 
 ```bash
 # Instalando as dependências
