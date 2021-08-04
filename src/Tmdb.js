@@ -1,4 +1,4 @@
-const API_KEY = '2bf8687391953b9b24c57761ab5ac4cf';
+const API_KEY = 'COLOQUE AQUI SUA API KEY';
 const API_BASE = 'https://api.themoviedb.org/3';
 
 const basicFetch = async (endpoint) => {
